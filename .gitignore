@@ -15,3 +15,8 @@
 *.exe
 *.out
 *.app
+
+# Intermediate files
+*.i
+*.ii
+*.s
